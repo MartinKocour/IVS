@@ -1,0 +1,3 @@
+#proj2 do IVS
+if (a)
+print "ahoj";
